@@ -1,0 +1,32 @@
+<!DOCTYPE <html>
+<html>
+<head>
+    <title></title>
+    <script type="text/javascript">
+
+      var A=5;     
+      var B=8;
+    
+      var sonuctoplama= A+B;
+      var sonuccikarma= B-A;
+  
+      if (A<5) 
+      { 
+        alert(sonuctoplama);
+
+        
+      } else (A>5) 
+      {
+        alert(sonuccikarma);
+      
+      }
+      
+
+    
+    </script>
+
+</head>
+<body>
+    
+</body>
+</html>
